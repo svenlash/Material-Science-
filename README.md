@@ -1,3 +1,5 @@
+![Run TPSA](https://github.com/svenlash/MaterialScience/actions/workflows/run.yml/badge.svg)
+
 ## Базы данных
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
