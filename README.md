@@ -1,10 +1,10 @@
 ## Базы данных
 
-<table border="0" cellspacing="0" cellpadding="20">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
 <td valign="top" width="50%">
 
-<h3>🧪 </h3>
+<h3>🧪</h3>
 
 | № | База данных | Сайт |
 |---|-------------|------|
@@ -22,7 +22,7 @@
 </td>
 <td valign="top" width="50%">
 
-<h3>🧬 </h3>
+<h3>🧬</h3>
 
 | № | База данных | Сайт |
 |---|-------------|------|
@@ -38,6 +38,42 @@
 | 10 | BindingDB | [bindingdb.org](http://www.bindingdb.org/bind/index.jsp) |
 | 11 | GenomeNet | [genome.jp](https://www.genome.jp/) |
 | 12 | MCDB | [mcdb.ca](https://mcdb.ca/) |
+
+</td>
+</tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td valign="top" width="50%">
+
+<h3>Редакторы</h3>
+
+| № | Программа | Сайт |
+|---|-----------|------|
+| 1 | MolView | [molview.org](https://molview.org/) |
+| 2 | Jmol | [jmol.sourceforge.net](https://jmol.sourceforge.net/) |
+| 3 | Molsoft | [molsoft.com](https://www.molsoft.com/) |
+| 4 | JSME | [jsme-editor.github.io](https://jsme-editor.github.io/) |
+| 5 | Mendeleev-plus | [mendeleevplus.com](https://mendeleevplus.com/) |
+| 6 | LEA3D | [leahcim.net](http://leahcim.net/lea3d/) |
+| 7 | MOLINSPIR | [molinspiration.com](https://www.molinspiration.com/) |
+| 8 | CheMagic | [chemagic.org](https://chemagic.org/) |
+
+</td>
+<td valign="top" width="50%">
+
+<h3>Визуализаторы</h3>
+
+| № | Программа | Сайт |
+|---|-----------|------|
+| 9 | MaSK | [mask.bmrb.wisc.edu](https://mask.bmrb.wisc.edu/) |
+| 10 | Cheminfo | [cheminfo.org](https://cheminfo.org/) |
+| 11 | BKChem | [bkchem.zirael.org](http://bkchem.zirael.org/) |
+| 12 | Avogadro | [avogadro.cc](https://avogadro.cc/) |
+| 13 | Gabedit | [gabedit.sourceforge.net](http://gabedit.sourceforge.net/) |
+| 14 | Ascalaph | [ascalaph.agate.net](http://www.ascalaph.agate.net/) |
+| 15 | YASARA | [yasara.org](https://www.yasara.org/) |
 
 </td>
 </tr>
