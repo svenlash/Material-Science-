@@ -1,4 +1,5 @@
-![Run TPSA](https://github.com/svenlash/MaterialScience/actions/workflows/run.yml/badge.svg)
+### Расчёт TPSA и Labute ASA для ciguatoxin
+**Результат расчёта:** [посмотреть на GitHub Actions](https://github.com/svenlash/MaterialScience/actions/runs/35005620351/job/104504509682)![Run TPSA](https://github.com/svenlash/MaterialScience/actions/workflows/run.yml/badge.svg)
 
 ## Базы данных
 
